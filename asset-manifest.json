@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kyro/static/css/main.55f1df8f.css",
-    "main.js": "/kyro/static/js/main.b47fbc1c.js",
+    "main.js": "/kyro/static/js/main.798be106.js",
     "static/media/profile.png": "/kyro/static/media/profile.659dacf94d2be9448c42.png",
     "static/media/KYRO-logo.jpg": "/kyro/static/media/KYRO-logo.ffb9cc65cd8a7dbcb70f.jpg",
     "index.html": "/kyro/index.html",
     "main.55f1df8f.css.map": "/kyro/static/css/main.55f1df8f.css.map",
-    "main.b47fbc1c.js.map": "/kyro/static/js/main.b47fbc1c.js.map"
+    "main.798be106.js.map": "/kyro/static/js/main.798be106.js.map"
   },
   "entrypoints": [
     "static/css/main.55f1df8f.css",
-    "static/js/main.b47fbc1c.js"
+    "static/js/main.798be106.js"
   ]
 }
